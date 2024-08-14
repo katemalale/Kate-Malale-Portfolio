@@ -223,6 +223,14 @@ section {
   height: 2rem;
 }
 
+.icon {
+  background-color: transparent; /* No background color */
+  border: none; /* No border */
+  box-shadow: none; /* No shadow */
+  height: 2rem; /* Adjust as needed */
+  width: auto; /* Maintains aspect ratio */
+  cursor: pointer;
+}
 /* BUTTONS */
 
 .btn-container {
